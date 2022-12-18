@@ -1,0 +1,16 @@
+<persons>
+    <person date_time = "2020-05-05 15:39:03" first_name = "Stepan" last_name = "Ivanov" type = "Speeding" fine_amount = "340.00"/>
+    <person date_time = "2020-03-01 14:23:03" first_name = "Vasyl" last_name = "Petrov" type = "Without rights" fine_amount = "3400.00" />
+    <person date_time = "2020-01-02 10:13:23" first_name = "Bogdan" last_name = "Groh" type = "Alcohol intoxication" fine_amount = "17000.00" />
+    <person date_time = "2020-10-02 08:53:33" first_name = "Mark" last_name = "Svenov" type = "Without rights" fine_amount = "3400.00" />
+
+    <person date_time = "2020-12-05 15:35:03" first_name = "Ivan" last_name = "Petrov" type = "Speeding" fine_amount = "340.00"/>
+    <person date_time = "2020-05-12 04:23:03" first_name = "Petro" last_name = "Mongol" type = "Without rights" fine_amount = "3400.00" />
+    <person date_time = "2020-11-02 10:33:23" first_name = "Evgen" last_name = "Krok" type = "Alcohol intoxication" fine_amount = "17000.00" />
+    <person date_time = "2020-02-02 03:53:33" first_name = "Maxim" last_name = "Zver" type = "Without rights" fine_amount = "3400.00" />
+
+    <person date_time = "2020-02-10 15:10:03" first_name = "Ivan" last_name = "Olen" type = "Passage to red" fine_amount = "510.00"/>
+    <person date_time = "2020-01-10 05:23:03" first_name = "Valentyn" last_name = "Sobchak" type = "Without rights" fine_amount = "3400.00" />
+    <person date_time = "2020-12-12 22:33:23" first_name = "Alexey" last_name = "Betman" type = "Alcohol intoxication" fine_amount = "17000.00" />
+    <person date_time = "2020-09-24 03:33:33" first_name = "Sergiy" last_name = "Zvenov" type = "Passage to red" fine_amount = "510.00" />
+</persons>

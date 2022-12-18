@@ -1,0 +1,11 @@
+<persons>
+    <person date_time = "2020-02-02 11:19:33" first_name = "Oksana" last_name = "Popova" type = "Passage to red" fine_amount = "510.00"/>
+    <person date_time = "2020-11-24 23:29:08" first_name = "Irina" last_name = "Syrov" type = "Speeding" fine_amount = "340.00" />
+    <person date_time = "2020-01-16 04:47:53" first_name = "Bogdan" last_name = "Komarov" type = "Without rights" fine_amount = "3400.00" />
+    <person date_time = "2020-03-04 16:13:58" first_name = "Olena" last_name = "Petrenko" type = "Without a mortgage policy" fine_amount = "425.00" />
+
+    <person date_time = "2020-11-26 11:59:33" first_name = "Anna" last_name = "Porova" type = "Passage to red" fine_amount = "510.00"/>
+    <person date_time = "2020-05-14 01:29:08" first_name = "Irina" last_name = "Sveter" type = "without numbers" fine_amount = "850.00" />
+    <person date_time = "2020-11-29 08:27:53" first_name = "Ivan" last_name = "Komarov" type = "Without rights" fine_amount = "3400.00" />
+    <person date_time = "2020-06-04 12:43:18" first_name = "Olena" last_name = "Petrenko" type = "Speeding" fine_amount = "340.00" />
+</persons>
